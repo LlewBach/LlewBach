@@ -1,13 +1,8 @@
 <h1 align="center">Shwmae 👋,</h1>
 
-- 👯 I've just graduated with **Distinction** from Code Institute's Diploma in Wep Application Development
+- :roller_coaster: I've just graduated with **Distinction** from Code Institute's Diploma in Wep Application Development
 - 🌱 I'm currently learning React
 - 📫 Email: **roepjynamy@hotmail.com**
-
-<h3 align="left">Contact me:</h3>
-<p align="left">
-<a href="(https://linkedin.com/in/gareth-l-68b69678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garethllewelyn" height="30" width="40" /></a>
-</p>
 
 ### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
