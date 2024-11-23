@@ -1,4 +1,4 @@
-<h1 align="center">Shwmae 👋,</h1>
+<h1 align="center">Shwmae! 👋</h1>
 
 - :roller_coaster: I've just graduated with **Distinction** from Code Institute's Diploma in Wep Application Development
 - 🌱 I'm currently learning React
