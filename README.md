@@ -1,16 +1,15 @@
 <h1 align="center">Shwmae 👋,</h1>
 
 - 👯 I've just graduated with **Distinction** from Code Institute's Diploma in Wep Application Development
+- 🌱 I'm currently learning React
+- 📫 Email: **roepjynamy@hotmail.com**
 
-- 📫 How to reach me **roepjynamy@hotmail.com**
-
-<h3 align="left">Link with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="(https://linkedin.com/in/gareth-l-68b69678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garethllewelyn" height="30" width="40" /></a>
 </p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-l-68b69678) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
@@ -26,7 +25,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-# 📊 GitHub Stats:
+### Code Institute's November 2024 Hackathon
+
+- Team: Axis of Access
+- Project repo: https://github.com/aslinedvinsson/Axisofaccesshack
+- Deployed site: https://iconicneeds-b9a45ca27cf6.herokuapp.com/
+
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LlewBach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LlewBach&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LlewBach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
