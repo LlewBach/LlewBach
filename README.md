@@ -1,7 +1,7 @@
 <h1 align="center">Shwmae! 👋</h1>
 
-- :roller_coaster: I've just graduated with **Distinction** from Code Institute's Diploma in Wep Application Development
-- 🌱 I'm currently learning React
+- :roller_coaster: I've just graduated with **Distinction** from Code Institute's Diploma in Web Application Development
+- 🌱 I'm currently learning ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - 📫 Email: **roepjynamy@hotmail.com**
 
 ### 💻 Tech Stack:
