@@ -42,15 +42,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-### Code Institute's November 2024 Hackathon
-
-- Team: Axis of Access
-- Project repo: https://github.com/aslinedvinsson/Axisofaccesshack
-- Deployed site: https://iconicneeds-b9a45ca27cf6.herokuapp.com/
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LlewBach&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 <!--
 **LlewBach/LlewBach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
