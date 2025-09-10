@@ -1,7 +1,7 @@
 <h1 align="center">Shwmae! 👋</h1>
 
 - 🌱 Software Developer building a React Native app for a production company
-- :roller_coaster: I've just graduated with **Distinction** from Code Institute's Diploma in Web Application Development
+- :roller_coaster: Graduated with **Distinction** from Code Institute's Diploma in Web Application Development
 - 📫 Email: **roepjynamy@hotmail.com**
 
 ### 💻 Tech Stack:
